@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #7adcd3
+}
+
+.container {
+    position: relative;
+    text-align: bottom;
+    color: black;
+}
+
+
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+.boxed {
+    border: 1px solid green;
+}
+

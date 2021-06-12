@@ -1,1 +1,1 @@
-﻿<%@ Application Codebehind="Global.asax.vb" Inherits="CS412Final_Iqbal.Global_asax" Language="vb" %>
+﻿<%@ Application Codebehind="Global.asax.cs" Inherits="CS412Final_Iqbal.Global" Language="C#" %>
